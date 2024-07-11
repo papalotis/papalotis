@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @papalotis
-- 👀 I’m interested in machine learning, autnomous driving/racing and cool algorithms
-- 🌱 I’m currently working on my CS Masters Degree at the TU Berlin
+- 👀 I’m interested in machine learning, autnomous driving/racing and cool algorithms.
+- 🌱 I’m currently working at Manthey Racing as Software Engineer.
 <!-- - 📫 How to reach me ... -->
 
 <!---
