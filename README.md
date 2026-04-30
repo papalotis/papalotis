@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @papalotis
 - 👀 I’m interested in machine learning, autnomous driving/racing and cool algorithms.
-- 🌱 I’m currently working at Manthey Racing as a Software Engineer.
 <!-- - 📫 How to reach me ... -->
 
 <!---
